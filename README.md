@@ -23,12 +23,6 @@ I have a deep passion for **TypeScript**, **Node.js**, and **React Native (Expo)
 ![Expo](https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo&logoColor=white)
 ![SurrealDB](https://img.shields.io/badge/-SurrealDB-FF00A0?style=flat)
 
-## 📈 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ebauger&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebauger&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
 ## 🔗 Connect with Me
 If you are looking for a developer who breathes TypeScript and builds robust systems, let's chat!
 
